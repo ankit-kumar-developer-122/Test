@@ -1,5 +1,4 @@
-
-Advanced Network Exploitation and Defense Simulation
+Stimulating Real-World Network Exploitation and Defense Simulation
 
 Student Name: Ankit Kumar
 ERP: 6604992
